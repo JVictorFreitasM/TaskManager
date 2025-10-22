@@ -19,11 +19,11 @@ export async function mainMenu(){
 
     switch(opcoes){
         case "create":{
-            createTaskMenu()
+            createTaskMenu();
             return;
         }
         case "list":{
-            listTasksMenu()
+            listTasksMenu();
             return;
         }
         default:{

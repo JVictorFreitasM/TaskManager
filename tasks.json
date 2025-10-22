@@ -3,5 +3,15 @@
     "name": "Estudar js",
     "status": "em andamento",
     "createdAt": "2025-10-22T21:10:25.569Z"
+  },
+  {
+    "name": "comprar bolo",
+    "status": "em andamento",
+    "createdAt": "2025-10-22T23:07:23.708Z"
+  },
+  {
+    "name": "comprar pão",
+    "status": "concluida",
+    "createdAt": "2025-10-22T23:07:23.708Z"
   }
 ]

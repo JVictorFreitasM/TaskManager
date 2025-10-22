@@ -37,7 +37,7 @@ export const taskManager = {
     colorStatus(status){
         switch(status){
             case "em andamento":{
-                return chalk.bgYellowBright()(` ${status} `);
+                return chalk.bgMagenta(` ${status} `);
             }
             case "concluida":{
                 return chalk.bgGreen(` ${status} `)
